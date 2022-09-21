@@ -1,6 +1,6 @@
 # Nlw-eSposts trilha Explorer
 
-![preview](./assets/lest.png)
+![preview](./ProjetoEsport/assets/lest.png)
 
 > Trilha Explorer
 
