@@ -8,7 +8,7 @@ Projeto construío do
 evento Next Level Week
 da Rockseat
 
-[Clique aqui para acessar](https://klayvemguimaraes.github.io/ProjetoEsport/Nlw-Explorer/nlw.html)
+[Clique aqui para acessar](https://klayvemguimaraes.github.io/ProjetoEsport/nlw.html)
 
 
 ## 🌍 Tecnologias
